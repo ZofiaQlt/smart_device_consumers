@@ -3,7 +3,7 @@
 <img width="703" alt="Capture d’écran 2023-05-10 à 02 45 29" src="https://github.com/ZofiaQlt/geocoding_r_tableau/assets/67431758/385727fe-94e8-45b2-a619-5636b2db8d97">
 <br>
 <br>
-Bellabeat is a high-tech manufacturer of health-focused products for women. The initial success of the company has prompted Urška Sršen (Cofounder and CCO) to expand their marketing strategy further. Through this notebook, we'll analyze Fitbit's smart device data (an American consumer electronics and fitness company) using R, to gain insight into how consumers are using their smart devices. 
+Bellabeat is a high-tech manufacturer of health-focused products for women. The initial success of the company has prompted Urška Sršen (Cofounder and CCO) to expand their marketing strategy further. Through this notebook, we'll use R to analyze Fitbit's smart device data (an American consumer electronics and fitness company) to gain insight into how consumers are using their products. 
 The insights will then help guide marketing strategy for the Bellabeat company.
 <br>
 <br>
