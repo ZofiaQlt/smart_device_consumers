@@ -8,7 +8,7 @@ The insights will then help guide marketing strategy for the Bellabeat company.
 <br>
 <br>
 <img width="325" alt="" src="https://user-images.githubusercontent.com/67431758/232096618-1b108d4b-d556-440e-b135-67b2a89c1782.png">
-The dataset comes from Kaggle :  
+The dataset comes from Kaggle :
 <br>
 https://www.kaggle.com/datasets/arashnic/fitbit
 <br>
