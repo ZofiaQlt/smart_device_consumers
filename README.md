@@ -1,4 +1,4 @@
-# Smart device consumers behaviour
+# Smart device consumers behaviour 
 
 <img width="703" alt="Capture d’écran 2023-05-10 à 02 45 29" src="https://github.com/ZofiaQlt/geocoding_r_tableau/assets/67431758/385727fe-94e8-45b2-a619-5636b2db8d97">
 <br>
